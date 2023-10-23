@@ -1,2 +1,5 @@
 # GROUP-6-GRAPHICS-3
-Full Source Code for the Complete GROUP 6 Project.
+Group 6 GRAP301 & GRPH301 Project.
+
+Source Code of the project in on Google Drive.
+Link for Source Code :
